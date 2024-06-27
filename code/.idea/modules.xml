@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ds_algo_code.iml" filepath="$PROJECT_DIR$/ds_algo_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorts/mergeSort/mergeSort.iml" filepath="$PROJECT_DIR$/sorts/mergeSort/mergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/percolation/percolation.iml" filepath="$PROJECT_DIR$/percolation/percolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorts/sorts.iml" filepath="$PROJECT_DIR$/sorts/sorts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacks_queues/stacks_queues.iml" filepath="$PROJECT_DIR$/stacks_queues/stacks_queues.iml" />
+    </modules>
+  </component>
+</project>

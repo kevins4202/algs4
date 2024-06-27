@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/kevins/Downloads/algs4.jar"
+    ],
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
+}

@@ -1,0 +1,7 @@
+count: 2
+count >= 2
+new temp: Goodbye
+assigned value to last
+1
+Hello
+Goodbye

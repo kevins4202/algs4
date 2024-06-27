@@ -1,0 +1,6 @@
+count: 2
+count >= 2
+assigned value to last
+size after remove:1
+Hello
+Goodbye

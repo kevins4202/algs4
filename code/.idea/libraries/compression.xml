@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="compression">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/compression/Archive.zip!/" />
+      <root url="jar://$PROJECT_DIR$/compression/Archive 2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
